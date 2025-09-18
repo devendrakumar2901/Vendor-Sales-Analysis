@@ -1,0 +1,30 @@
+2025-08-10 19:20:26,176 - INFO - ingesting begin_inventory.csv in db
+2025-08-10 19:20:29,550 - INFO - ingesting end_inventory.csv in db
+2025-08-10 19:20:41,634 - INFO - ingesting purchases.csv in db
+2025-08-10 19:21:48,009 - INFO - ingesting purchase_prices.csv in db
+2025-08-10 19:22:20,437 - INFO - ingesting sales.csv in db
+2025-08-10 19:30:51,539 - INFO - ingesting vendor_invoice.csv in db
+2025-08-10 19:30:51,819 - INFO - --------ingestion complete---------
+2025-08-10 19:30:51,819 - INFO - 
+Total time taken: 10.436003263791402minutes
+2025-08-10 20:06:02,520 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-10 20:06:02,520 - WARNING - No such comm: fd82099c-8635-411d-8332-d6e279dc0edf
+2025-08-10 20:06:02,520 - DEBUG - Current comms: []
+2025-08-10 21:02:06,163 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-10 21:02:06,169 - WARNING - No such comm: ff79e8cb-b70b-464c-8feb-94e3a4c6c298
+2025-08-10 21:02:06,169 - DEBUG - Current comms: []
+2025-08-10 23:27:45,195 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-10 23:27:45,200 - WARNING - No such comm: c00389f9-ee24-4ff2-b6fd-5535b7b2d38b
+2025-08-10 23:27:45,201 - DEBUG - Current comms: []
+2025-08-11 04:09:13,754 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-11 04:09:13,757 - WARNING - No such comm: 7c18686f-565d-49e7-ae8a-7d1fc36272c2
+2025-08-11 04:09:13,757 - DEBUG - Current comms: []
+2025-08-11 04:24:14,728 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-11 04:24:14,728 - WARNING - No such comm: e951a8ae-bd07-4525-926d-caf07079f6aa
+2025-08-11 04:24:14,728 - DEBUG - Current comms: []
+2025-08-11 15:56:34,844 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-11 15:56:34,849 - WARNING - No such comm: 9ed8b194-4b9c-44d7-8ec4-b05ab6d2a232
+2025-08-11 15:56:34,849 - DEBUG - Current comms: []
+2025-08-11 19:00:50,594 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-11 19:00:50,594 - WARNING - No such comm: bfe1237b-2a50-4586-9ddb-a6f8c5d76b62
+2025-08-11 19:00:50,594 - DEBUG - Current comms: []
